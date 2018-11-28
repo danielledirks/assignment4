@@ -35,10 +35,10 @@ a {
 
 .contactdiv {
     display: flex;
-    /*    width: 500px;*/
+        width: 400px;
     background-color: #000000;
     padding-left: 20px;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 40px;
     color: ghostwhite;
 }
@@ -119,6 +119,7 @@ header nav li {
     div,
     .container,
     main,
+    form,
     footer {
         flex-direction: column;
     }
